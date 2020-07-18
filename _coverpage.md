@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/home.png)
+![logo](media/home.png)
 
 # Zm-iceboy <small>1.0</small>
 
